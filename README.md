@@ -12,10 +12,10 @@ Atualmente, estou focada em desenvolver minhas habilidades e adquirir experiênc
 Quero me tornar uma desenvolvedora versátil e qualificada, sempre aberta a novos aprendizados e desafios no mundo da tecnologia.
 ##
 ### Você também me encontra em:
-&nbsp;<a href="https://www.linkedin.com/in/giovana-marques-silva-aa8595297">
+<a href="https://www.linkedin.com/in/giovana-marques-silva-aa8595297">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/qr/">
+</a>
+<a href="https://www.instagram.com/qr/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
+</a>
 
