@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas, apaixonad
 ### 🛠️ Habilidades Técnicas
 Front-End: HTML, CSS, JavaScript; <br>
 Back-End: C; <br>
-Outros: Python; (básico)
+Outros: Python (básico);
 ### 🎯 Objetivos
 Atualmente, estou focada em desenvolver minhas habilidades e adquirir experiência prática com projetos e desafios que ampliem meus conhecimentos.
 
