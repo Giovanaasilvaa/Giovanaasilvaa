@@ -1,7 +1,15 @@
-### 👋 Olá! Eu sou a Giovana Marques Silva
-Estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas, apaixonada por desenvolvimento e por aprender novas tecnologias.
+### 👋 Oiee! Eu sou a Giovana Marques Silva
+Estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas, apaixonada por desenvolvimento e por aprender novas tecnologias. 
 
-### 🛠️ Tecnologias que utilizo:
+
+<a href="https://github.com/giovanaasilvaa/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giovanaasilvaa" />
+</a>
+<a href="https://github.com/giovanaasilvaa/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaasilvaa&layout=compact&langs_count=8&card_width=320" />
+</a> 
+
+-----------
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
@@ -24,6 +32,6 @@ Quero me tornar uma desenvolvedora versátil e qualificada, sempre aberta a novo
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
-
+![Snake animation](https://github.com/rafaballerini/giovanaasilvaa/blob/output/github-contribution-grid-snake.svg)|
 
 
