@@ -25,8 +25,7 @@ Quero me tornar uma desenvolvedora versátil e qualificada, sempre aberta a novo
 
 ### Você também me encontra em:
 <a href="https://www.linkedin.com/in/giovana-marques-silva-aa8595297">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/qr/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
