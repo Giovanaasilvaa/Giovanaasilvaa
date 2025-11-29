@@ -2,8 +2,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Campinas, apaixonada por desenvolvimento e por aprender novas tecnologias. 
 
 
-<a href="https://github.com/giovanaasilvaa/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=giovanaasilvaa&theme=dark" /></a>
+
 <a href="https://github.com/giovanaasilvaa/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanaasilvaa&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
